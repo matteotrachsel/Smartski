@@ -26,6 +26,7 @@
 *.exe
 *.out
 *.app
+*.ino
 
 # =========================
 # Operating System Files
