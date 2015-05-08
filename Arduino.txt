@@ -1,0 +1,12 @@
+Arduino
+
+GPS:		RX: 10
+3 V		TX: 11
+	
+Bluetooth:	Tx: 4
+5 V		Rx: 5
+
+
+Druck:
+3.3 V		SCL: Analog 5
+		SDA: Analog 4
